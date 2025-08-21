@@ -1,0 +1,18 @@
+{
+    "livros": [
+        {
+            "id": 1,
+            "titulo": "Dom Casmurro",
+            "autor": "Machado de Assis",
+            "ano": 1899,
+            "preco": 29.9
+        },
+        {
+            "id": 3,
+            "titulo": "O Guarani",
+            "autor": "José de Alencar",
+            "ano": 1857,
+            "preco": 34.5
+        }
+    ]
+}
