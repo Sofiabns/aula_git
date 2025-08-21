@@ -1,0 +1,6 @@
+Primeira vez:
+git clone Link do repositório em HTTPS
+
+Toda vez que abrir:
+git config --global user.name nome 
+git config --global user.email email 
